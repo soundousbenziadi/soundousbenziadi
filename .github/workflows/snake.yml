@@ -1,4 +1,6 @@
 name: Generate GitHub Contribution Snake
+permissions:
+  contents: write
 
 on:
   schedule:
