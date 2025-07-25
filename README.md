@@ -36,9 +36,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=soundousbenziadi&theme=default&hide_border=false" width="400" />
 </div>
----
-
-### 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soundousbenziadi/soundousbenziadi/output/github-contribution-grid-snake-dark.svg">
