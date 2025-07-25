@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Soundous</h1>
+<h3 align="center">Front-End Developer & Computer Science Student</h3>
 
-<!--
-**soundousbenziadi/soundousbenziadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying **Computer Science**
+- 🌐 I specialize in **Front-End Web Development**
+- 🚀 I enjoy building clean and responsive websites using:
+  - HTML, CSS, JavaScript
+  - React JS, Tailwind CSS, Bootstrap,Framer Motion
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github" height="40" />
+</div>
+
+---
+
+### 📫 Contact Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/soundous-benziadi-73339b284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=soundousbenziadi&theme=default&hide_border=false" width="400" />
+</div>
+
