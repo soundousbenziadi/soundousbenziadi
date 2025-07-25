@@ -1,4 +1,5 @@
-name: Generate GitHub Contribution Snake
+name: Generate Snake
+
 permissions:
   contents: write
 
@@ -11,7 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: soundousbenziadi
